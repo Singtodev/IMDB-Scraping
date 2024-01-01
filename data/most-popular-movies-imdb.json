@@ -1,0 +1,708 @@
+[
+  {
+    "idx": 1,
+    "name": "Rebel Moon: Part One - A Child of Fire",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTdmZDNhNjgtMjk4NS00YzQzLTliM2UtMDEzZDY2MDZmMTcwXkEyXkFqcGdeQXVyMTA4MzgzNDM3._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "5.7\u00a0(65K)",
+    "rate": "20232h 13mPG-13"
+  },
+  {
+    "idx": 2,
+    "name": "Saltburn",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2NmMDQ1ZWEtNDU4OS00MGIxLWEyMGMtMTM2YmFkYzNhYmMxXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.2\u00a0(59K)",
+    "rate": "20232h 11mR"
+  },
+  {
+    "idx": 3,
+    "name": "Leave the World Behind",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzM2I3NDEtMjNhYi00NTQ0LThmZDItZTMyMzM2MjJmZGRjXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "6.5\u00a0(131K)",
+    "rate": "20232h 18mR"
+  },
+  {
+    "idx": 4,
+    "name": "Wonka",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "7.3\u00a0(47K)",
+    "rate": "20231h 56mPG"
+  },
+  {
+    "idx": 5,
+    "name": "Aquaman and the Lost Kingdom",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxM2FiYjctYjliYy00NjY2LWFmOTEtMWZiYWRjNjA4MGYxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.0\u00a0(21K)",
+    "rate": "20232h 4mPG-13"
+  },
+  {
+    "idx": 6,
+    "name": "Anyone But You",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmQ2MmY2MmYtMjUzOS00Y2MyLWE4YmQtYzIzYWQ4OTdmMGU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(3.8K)",
+    "rate": "20231h 43mR"
+  },
+  {
+    "idx": 7,
+    "name": "Poor Things",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.5\u00a0(14K)",
+    "rate": "20232h 21mR"
+  },
+  {
+    "idx": 8,
+    "name": "Maestro",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGI2MzQ1NzQtMmVkOC00ZGI0LWI3YjQtN2FjMzQ1NmRhNzFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(24K)",
+    "rate": "20232h 9mR"
+  },
+  {
+    "idx": 9,
+    "name": "Love Actually",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbRate": "7.6\u00a0(524K)",
+    "rate": "20032h 15mR"
+  },
+  {
+    "idx": 10,
+    "name": "The Iron Claw",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE5NjllZTEtMGJjNy00ZTFmLThlNDItNmNiZTgyOTQ4OTA2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.1\u00a0(6.8K)",
+    "rate": "20232h 12mR"
+  },
+  {
+    "idx": 11,
+    "name": "Home Alone",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.7\u00a0(639K)",
+    "rate": "19901h 43mPG"
+  },
+  {
+    "idx": 12,
+    "name": "Dunki",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(55K)",
+    "rate": "20232h 40m"
+  },
+  {
+    "idx": 13,
+    "name": "Oppenheimer",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.4\u00a0(574K)",
+    "rate": "20233hR"
+  },
+  {
+    "idx": 14,
+    "name": "National Lampoon's Christmas Vacation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.5\u00a0(217K)",
+    "rate": "19891h 37mPG-13"
+  },
+  {
+    "idx": 15,
+    "name": "Barbie",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(441K)",
+    "rate": "20231h 54mPG-13"
+  },
+  {
+    "idx": 16,
+    "name": "Animal",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(58K)",
+    "rate": "20233h 24m"
+  },
+  {
+    "idx": 17,
+    "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(73K)",
+    "rate": "20232h 37mPG-13"
+  },
+  {
+    "idx": 18,
+    "name": "It's a Wonderful Life",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbRate": "8.6\u00a0(491K)",
+    "rate": "19462h 10mPG"
+  },
+  {
+    "idx": 19,
+    "name": "Die Hard",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "8.2\u00a0(931K)",
+    "rate": "19882h 12mR"
+  },
+  {
+    "idx": 20,
+    "name": "Killers of the Flower Moon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4ZTZlNDAtM2Q3YS00YjFhLThjN2UtODg2ZGNlN2E2MWU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(143K)",
+    "rate": "20233h 26mR"
+  },
+  {
+    "idx": 21,
+    "name": "Ferrari",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTM0YTBlMjctZjJjZS00MDU4LTg5YmQtMDY5Y2FhMWZiMjQ2XkEyXkFqcGdeQXVyNzU0NzQxNTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(6.5K)",
+    "rate": "20232h 4mR"
+  },
+  {
+    "idx": 22,
+    "name": "A Christmas Story",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbRate": "7.9\u00a0(167K)",
+    "rate": "19831h 33mPG"
+  },
+  {
+    "idx": 23,
+    "name": "How the Grinch Stole Christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.3\u00a0(286K)",
+    "rate": "20001h 44mPG"
+  },
+  {
+    "idx": 24,
+    "name": "The Holdovers",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc2MzNkMjMtZDY5NC00NmQ0LWI1NjctZjRhNWIzZjc4MGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.0\u00a0(36K)",
+    "rate": "20232h 13mR"
+  },
+  {
+    "idx": 25,
+    "name": "Salaar",
+    "image": "https://m.media-amazon.com/images/M/MV5BODAyYjIzZDEtMjFkMy00OGE2LWEzODItYmE4NjhkNzYxNmRjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbRate": "6.7\u00a0(47K)",
+    "rate": "20232h 55m"
+  },
+  {
+    "idx": 26,
+    "name": "The Family Plan",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQzZWFmOWMtODM4Ni00YjYwLWI4ZTYtOTkwZmYyMzFkN2E2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "6.3\u00a0(21K)",
+    "rate": "20231h 58mPG-13"
+  },
+  {
+    "idx": 27,
+    "name": "The Color Purple",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBkNGE0NGYtYmU5Ny00NjRiLTk5MmYtMWU4NzYxMDE4YWY4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.9\u00a0(2.5K)",
+    "rate": "20232h 21mPG-13"
+  },
+  {
+    "idx": 28,
+    "name": "Elf",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.1\u00a0(306K)",
+    "rate": "20031h 37mPG"
+  },
+  {
+    "idx": 29,
+    "name": "Parasite",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.5\u00a0(916K)",
+    "rate": "20192h 12mR"
+  },
+  {
+    "idx": 30,
+    "name": "Godzilla Minus One",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZkNWQyMDEtMmRhNi00Nzc5LWFhNjQtMWRiOTllYmEzOWE5XkEyXkFqcGdeQXVyMTMwNzYxMTUx._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbRate": "8.4\u00a0(31K)",
+    "rate": "20232h 4mPG-13"
+  },
+  {
+    "idx": 31,
+    "name": "Indiana Jones and the Dial of Destiny",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(172K)",
+    "rate": "20232h 34mPG-13"
+  },
+  {
+    "idx": 32,
+    "name": "Home Alone 2: Lost in New York",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(395K)",
+    "rate": "19922hPG"
+  },
+  {
+    "idx": 33,
+    "name": "White Christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjI0ZTk0ZjQtZTMzOS00NDdmLTk0YzUtZTQ4NGRkNWFhZTkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbRate": "7.6\u00a0(50K)",
+    "rate": "19542hNot Rated"
+  },
+  {
+    "idx": 34,
+    "name": "The Boys in the Boat",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU1Nzc4YWMtZmZiYi00NzFkLTk2MDUtOGRlNGU1Njk0ZTdkXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "7.3\u00a0(2.1K)",
+    "rate": "20232h 3mPG-13"
+  },
+  {
+    "idx": 35,
+    "name": "The Creator",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDUyNTIzNDQtYTZmMi00M2FlLTgyZjUtYWViZWNhMDYzMjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(104K)",
+    "rate": "20232h 13mPG-13"
+  },
+  {
+    "idx": 36,
+    "name": "Dream Scenario",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDI4MjI1YmYtYzg1Ny00MWQzLWIwNTgtNmFkMWNhYTYzYjdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "7.1\u00a0(18K)",
+    "rate": "20231h 42mR"
+  },
+  {
+    "idx": 37,
+    "name": "Candy Cane Lane",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3MWYzNzEtZmYwNS00ZjhjLTljMTQtYzk5NTk1ZTJkYTZjXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "5.6\u00a0(18K)",
+    "rate": "20231h 57mPG"
+  },
+  {
+    "idx": 38,
+    "name": "Chicken Run: Dawn of the Nugget",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzNhZTkyMWItMTAwZS00ZGJkLTlkMTctNjc5ZDdkMDNmMmE1XkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.4\u00a0(14K)",
+    "rate": "20231h 41mPG"
+  },
+  {
+    "idx": 39,
+    "name": "May December",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1ODM5YjQtMmQzNS00Y2FkLWJhNTgtYTE5ZDY0NjQyNmRjXkEyXkFqcGdeQXVyMTY3ODE5NTY1._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "7.0\u00a0(27K)",
+    "rate": "20231h 57mR"
+  },
+  {
+    "idx": 40,
+    "name": "Migration",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(3.7K)",
+    "rate": "20231h 23mPG"
+  },
+  {
+    "idx": 41,
+    "name": "Thanksgiving",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZhOGJjZTAtOTJmYS00ZTk2LTgxYWEtNjM3ZmUxMjY2NWFiXkEyXkFqcGdeQXVyNjU2NTI4MjE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "6.5\u00a0(25K)",
+    "rate": "20231h 46mR"
+  },
+  {
+    "idx": 42,
+    "name": "Scrooged",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDExMjFhYTItNmFkNC00YzQ0LWE1OGMtN2ExNGFkNWMxMjA4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(115K)",
+    "rate": "19881h 41mPG-13"
+  },
+  {
+    "idx": 43,
+    "name": "The Polar Express",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(237K)",
+    "rate": "20041h 40mG"
+  },
+  {
+    "idx": 44,
+    "name": "The Boy and the Heron",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjZkNThjNTMtOGU0Ni00ZDliLThmNGUtZmMxNWQ3YzAxZTQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbRate": "7.6\u00a0(23K)",
+    "rate": "20232h 4mPG-13"
+  },
+  {
+    "idx": 45,
+    "name": "The Holiday",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MDk4MzA2OF5BMl5BanBnXkFtZTYwMjQ3NDc3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(316K)",
+    "rate": "20062h 16mPG-13"
+  },
+  {
+    "idx": 46,
+    "name": "Violent Night",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzg2NWNhOWItYjA3Yi00MzhhLTg4ZmItYzM3ZTIwN2U0ZGQ5XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "6.7\u00a0(94K)",
+    "rate": "20221h 52mR"
+  },
+  {
+    "idx": 47,
+    "name": "Sound of Freedom",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTAwNWQ1ZjQtZDFmMC00YjNlLWFlNjItMjJlYzZkMjJlNzkyXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.7\u00a0(94K)",
+    "rate": "20232h 11mPG-13"
+  },
+  {
+    "idx": 48,
+    "name": "Silent Night",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZjNDg4ZGQtZTY4NC00MWVmLTk4ZmEtYjc1NWRkZWRjMWUwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "5.4\u00a0(12K)",
+    "rate": "20231h 44mR"
+  },
+  {
+    "idx": 49,
+    "name": "The Grinch",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmE5Yjg0MzktYzgzMi00YTFiLWJjYTItY2M5MmI1ODI4MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbRate": "6.4\u00a0(88K)",
+    "rate": "20181h 25mPG"
+  },
+  {
+    "idx": 50,
+    "name": "Kho Gaye Hum Kahan",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzgyZjYzYzgtZjE5YS00NTFmLWE4ODctNGU2ZDJjMjcyNTVhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "8.3\u00a0(21K)",
+    "rate": "20232h 15mTV-14"
+  },
+  {
+    "idx": 51,
+    "name": "Anatomy of a Fall",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBiYmRkNjUtYzc4My00NGFiLWE2NWUtMGU1ZDA1NTQ3ZjQwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(28K)",
+    "rate": "20232h 31mR"
+  },
+  {
+    "idx": 52,
+    "name": "Top Gun: Maverick",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.3\u00a0(654K)",
+    "rate": "20222h 10mPG-13"
+  },
+  {
+    "idx": 53,
+    "name": "Napoleon",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(73K)",
+    "rate": "20232h 38mR"
+  },
+  {
+    "idx": 54,
+    "name": "Rebel Moon: Part Two - The Scargiver",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWNmMDFjMjQtZjMyNS00NjViLWE4MzQtYzY4NzU2YWI3OTFlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbRate": [
+      "None"
+    ],
+    "rate": "2024"
+  },
+  {
+    "idx": 55,
+    "name": "The Super Mario Bros. Movie",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "7.0\u00a0(218K)",
+    "rate": "20231h 32mPG"
+  },
+  {
+    "idx": 56,
+    "name": "Family Switch",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWMyYWI0M2MtZDk2My00MmFmLWEzZTgtYjIxZjMyODcwNGJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "5.6\u00a0(21K)",
+    "rate": "20231h 46mPG"
+  },
+  {
+    "idx": 57,
+    "name": "Gran Turismo",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.2\u00a0(72K)",
+    "rate": "20232h 14mPG-13"
+  },
+  {
+    "idx": 58,
+    "name": "Miracle on 34th Street",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk3M2UyN2YtNmQ1MS00MWI3LWEzNGMtYTRkM2E5MWNjOWJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(43K)",
+    "rate": "19941h 54mPG"
+  },
+  {
+    "idx": 59,
+    "name": "A Haunting in Venice",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmI4MzE2YjQtYWMxYi00MjBhLThhOTYtYjdiOGQ4NzE4MWViXkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_QL75_UY207_CR12,0,140,207_.jpg",
+    "imdbRate": "6.5\u00a0(90K)",
+    "rate": "20231h 43mPG-13"
+  },
+  {
+    "idx": 60,
+    "name": "Trolls Band Together",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbRate": "6.0\u00a0(8.4K)",
+    "rate": "20231h 31mPG"
+  },
+  {
+    "idx": 61,
+    "name": "Klaus",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.2\u00a0(183K)",
+    "rate": "20191h 36mPG"
+  },
+  {
+    "idx": 62,
+    "name": "Spider-Man: Across the Spider-Verse",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.6\u00a0(323K)",
+    "rate": "20232h 20mPG"
+  },
+  {
+    "idx": 63,
+    "name": "Past Lives",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTkzYmMxNTItZDAxNC00NGM0LWIyODMtMWYzMzRkMjIyMTE1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.0\u00a0(55K)",
+    "rate": "20231h 45mPG-13"
+  },
+  {
+    "idx": 64,
+    "name": "Spirited",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RlZGFmYjAtNGZiMi00YjQ5LWE0ZmQtZmIyM2VmMjRhMTJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(49K)",
+    "rate": "20222h 7mPG-13"
+  },
+  {
+    "idx": 65,
+    "name": "The Hunger Games",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.2\u00a0(985K)",
+    "rate": "20122h 22mPG-13"
+  },
+  {
+    "idx": 66,
+    "name": "The Killer",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJkMDUwZWQtYTMzMS00NTg5LWE1ZTYtOTVhMDI4NGI1YjMyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(150K)",
+    "rate": "20231h 58mR"
+  },
+  {
+    "idx": 67,
+    "name": "Mean Girls",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDExMGMyN2QtYjRkZC00Yzk1LTkzMDktMTliZTI5NjQ0NTNkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbRate": [
+      "None"
+    ],
+    "rate": "20241h 52m"
+  },
+  {
+    "idx": 68,
+    "name": "A Christmas Story Christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjliZjM5MWMtMzcyYi00Y2ZiLTliOGMtNGNjMjE1YWIwZTkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.7\u00a0(18K)",
+    "rate": "20221h 38mPG"
+  },
+  {
+    "idx": 69,
+    "name": "Mission: Impossible - Dead Reckoning Part One",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbRate": "7.7\u00a0(208K)",
+    "rate": "20232h 43mPG-13"
+  },
+  {
+    "idx": 70,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbRate": "7.6\u00a0(841K)",
+    "rate": "20012h 32mPG"
+  },
+  {
+    "idx": 71,
+    "name": "The Santa Clause",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTZlNzk1MjItYjJlYy00MTAxLWJkNjEtZmNiNmVlNjQ4NDE5XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbRate": "6.6\u00a0(132K)",
+    "rate": "19941h 37mPG"
+  },
+  {
+    "idx": 72,
+    "name": "No Hard Feelings",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.4\u00a0(123K)",
+    "rate": "20231h 43mR"
+  },
+  {
+    "idx": 73,
+    "name": "The Batman",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNTAwZGEtNTAxNC00ODVjLTgzZjUtYmU0YjAzNmQyZDEwXkEyXkFqcGdeQXVyNDc2NTg3NzA@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(756K)",
+    "rate": "20222h 56mPG-13"
+  },
+  {
+    "idx": 74,
+    "name": "The Muppet Christmas Carol",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2Y0NWRkNWItZWEwNi00MDNlLWJmZDYtNTkwYzI5Nzg4MjVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(70K)",
+    "rate": "19921h 25mG"
+  },
+  {
+    "idx": 75,
+    "name": "The Sound of Music",
+    "image": "https://m.media-amazon.com/images/M/MV5BYThiZTY5MTAtODgwNS00OGNjLThjYzItOTcxYmYxMGY5MzBjXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "8.1\u00a0(255K)",
+    "rate": "19652h 52mG"
+  },
+  {
+    "idx": 76,
+    "name": "Wish",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4M2ZmODItNzZhYi00MzY1LTk2ZmItYTUwODI2NzJmN2JiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "5.8\u00a0(13K)",
+    "rate": "20231h 35mPG"
+  },
+  {
+    "idx": 77,
+    "name": "Priscilla",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQyZTBiMjAtZTNjZi00ZjU0LWFkMTQtMDE3Nzc1MjVmMTM4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(12K)",
+    "rate": "20231h 53mR"
+  },
+  {
+    "idx": 78,
+    "name": "Willy Wonka & the Chocolate Factory",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(220K)",
+    "rate": "19711h 40mG"
+  },
+  {
+    "idx": 79,
+    "name": "Asteroid City",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJmMzY0ZGUtYWE1My00OWViLTg1NTctOWMwZWJlNDQzNGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.5\u00a0(95K)",
+    "rate": "20231h 45mPG-13"
+  },
+  {
+    "idx": 80,
+    "name": "Leo",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNiZWI3ZmItMjY4OS00Mjk5LThlNjktMmMwZDM1OTEwOGVmXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.0\u00a0(25K)",
+    "rate": "20231h 42mPG"
+  },
+  {
+    "idx": 81,
+    "name": "Percy Jackson & the Olympians: The Lightning Thief",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NDlmZWUtMjIyMC00NzQ3LTg3OWYtMzRkY2FiNzQ0Njc4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "5.9\u00a0(199K)",
+    "rate": "20101h 58mPG"
+  },
+  {
+    "idx": 82,
+    "name": "Miracle on 34th Street",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRkOGEwYTUtY2E5Yy00ODg4LTk2ZWItY2IyMzUxOGVhMTM1XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "7.9\u00a0(54K)",
+    "rate": "19471h 36mNot Rated"
+  },
+  {
+    "idx": 83,
+    "name": "The Color Purple",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRkOWQ5NGUtYTVmOS00ZjNhLWEwODgtOGI2MmUxNTBkMjU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbRate": "7.7\u00a0(94K)",
+    "rate": "19852h 34mPG-13"
+  },
+  {
+    "idx": 84,
+    "name": "Gremlins",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNlZWYyNTctMDk0Ni00MGI2LWFlOTQtY2M0YWZkZDY4ZjJiXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "7.3\u00a0(244K)",
+    "rate": "19841h 46mPG"
+  },
+  {
+    "idx": 85,
+    "name": "American Fiction",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDlkZmRlYTctNGJmNy00MjVkLThjZDQtMWY5Zjg2NjlhZDZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "7.8\u00a0(2.1K)",
+    "rate": "20231h 57mR"
+  },
+  {
+    "idx": 86,
+    "name": "Dune",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "8.0\u00a0(739K)",
+    "rate": "20212h 35mPG-13"
+  },
+  {
+    "idx": 87,
+    "name": "Top Gun",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbRate": "6.9\u00a0(492K)",
+    "rate": "19861h 49mPG"
+  },
+  {
+    "idx": 88,
+    "name": "Love Lies Bleeding",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2IzZWVhYjYtMjFmMy00OWQzLTkyNjUtN2IwZWE2ZmY5NzI3XkEyXkFqcGdeQXVyMTY2NDUyNzY3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": [
+      "None"
+    ],
+    "rate": "20241h 44mR"
+  },
+  {
+    "idx": 89,
+    "name": "Finestkind",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFjODE5ZTgtOWYyMy00MWRmLWFmZmQtOTVmMmRhYTA0MGQyXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "5.9\u00a0(3.6K)",
+    "rate": "20232h 6mR"
+  },
+  {
+    "idx": 90,
+    "name": "Sijjin",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWU2YjE0ZjctNmQ1Mi00NGVjLTlkNGEtNzJiMTYxNTE2NTdhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "6.2\u00a0(733)",
+    "rate": "20231h 40m"
+  },
+  {
+    "idx": 91,
+    "name": "Aquaman",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(509K)",
+    "rate": "20182h 23mPG-13"
+  },
+  {
+    "idx": 92,
+    "name": "A Christmas Carol",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(128K)",
+    "rate": "20091h 36mPG"
+  },
+  {
+    "idx": 93,
+    "name": "X",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbRate": "6.5\u00a0(158K)",
+    "rate": "20221h 45mR"
+  },
+  {
+    "idx": 94,
+    "name": "12th Fail",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDY5YWMzOWEtNTVhZi00NTdmLWIxNGItN2Q5ZmIxNGRkZDYyXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_QL75_UY207_CR9,0,140,207_.jpg",
+    "imdbRate": "9.2\u00a0(21K)",
+    "rate": "20232h 27m"
+  },
+  {
+    "idx": 95,
+    "name": "The Shawshank Redemption",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "9.3\u00a0(2.8M)",
+    "rate": "19942h 22mR"
+  },
+  {
+    "idx": 96,
+    "name": "How to Have Sex",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWZiYzM1MGMtMTVhZi00ZmJjLWJjOTMtMDZmNjVkNTNhYzE0XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.8\u00a0(3.8K)",
+    "rate": "20231h 31m"
+  },
+  {
+    "idx": 97,
+    "name": "Last Christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQ4ZmY0NjgtYzVhNy00NzhiLTk3YTYtNzM1MTdjM2VhZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "6.5\u00a0(89K)",
+    "rate": "20191h 43mPG-13"
+  },
+  {
+    "idx": 98,
+    "name": "Home Alone 3",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJhYjVhOWMtYTUyOS00NWM0LThjNzYtZWYxOTkwN2FhODg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbRate": "4.6\u00a0(126K)",
+    "rate": "19971h 42mPG"
+  },
+  {
+    "idx": 99,
+    "name": "The Promised Land",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc3YmU2ZWQtZmVkMC00ZTBhLTg5YmYtYWQxMmY5MjUxMzdmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbRate": "7.7\u00a0(3.6K)",
+    "rate": "20232h 7m"
+  },
+  {
+    "idx": 100,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbRate": "8.9\u00a0(2M)",
+    "rate": "20012h 58mPG-13"
+  }
+]
